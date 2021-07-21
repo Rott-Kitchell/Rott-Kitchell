@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 A few things about me:
-
 - 🔭 I’m currently working on a DoorDash clone
 - 🌱 I’m currently learning Java and whatever else I can get my hands on
 - 👯 I’m looking to collaborate on a few app ideas
