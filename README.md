@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Rott-Kitchell/Rott-Kitchell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+A few things about me:
 
 - 🔭 I’m currently working on a DoorDash clone
 - 🌱 I’m currently learning Java and whatever else I can get my hands on
@@ -12,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: R.Kitchell815@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have a love/hate relationship with the Carolina Reaper ("superhot pepper")
--->
+
